@@ -10,6 +10,7 @@ function theme_enqueue_styles() {
 
 }
 
+
 // Enregistrement des menus
 function theme_register_menus()
 {
