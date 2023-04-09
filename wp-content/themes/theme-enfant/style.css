@@ -31,7 +31,6 @@ header {
     margin:30px 30px 30px 0px;  
 }
 
-
 .menu-header{
 	display:flex;
 	font-size: 16px;
@@ -55,9 +54,7 @@ header {
 	order: 2;
 }
 
-
 /*css du btn commander*/
-
 #menu-item-785 a{
 	background-color: #DC9F96;
 	color: white !important;
@@ -71,8 +68,6 @@ header {
 #menu-item-786 a{
     padding: 30px 60px;
 }
-
-
 
 /*css du footer*/
 footer{
@@ -188,7 +183,6 @@ footer{
     display:none;
 }
 
-
 /* css du bloc zéro plus et moins */
 .bloc-0{
     display: flex;
@@ -237,8 +231,6 @@ footer{
   border-top-right-radius: 5px;
 }
 
-
-
 .bloc-moins{
   width: 32px;
   height: 30.5px;
@@ -265,8 +257,11 @@ footer{
             padding-right:0px;
             border-radius: 5px; 
         }
+        .menu-header li{
+            margin:32px 0px 0px 15px; 
+            font-size:16px;
+        }
     }
-
 
 
 /* css portable */
